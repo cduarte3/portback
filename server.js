@@ -28,6 +28,7 @@ async function startServer() {
     "http://localhost:3000",
     "http://localhost:5000",
     "https://portv2-three.vercel.app",
+    "https://www.cduarte.ca",
   ];
 
   const corsOptions = {
